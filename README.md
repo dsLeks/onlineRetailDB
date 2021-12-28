@@ -1,4 +1,4 @@
-#Project Title: Online Retail Database 
+# Project Title: Online Retail Database 
 
 In this project I designed a Database using DrawIO and I created an Entity Relationship Diagram. Using MySQL workbench I forward engineered this ERD to an EER. 
 My EER file is named: `OnlineRetailDB-Final.sql` 
